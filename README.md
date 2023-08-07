@@ -27,7 +27,7 @@ This project involves analyzing data related to medicine products, including the
 
 
 
-##  Quick Start
+##  Tools and Languages used
 
 - Scraped the data with the help of Python BeautifulSoup librariy.
 - Used Pandas for the data framing part.
@@ -36,6 +36,9 @@ This project involves analyzing data related to medicine products, including the
 - Excel is used for dashboard and data visualization.
 
 
+##  Dashboard
+
+![WhatsApp Image 2023-08-07 at 7 15 24 PM](https://github.com/Shreyasoni11/CapstoneProject/assets/136992653/90a69bb3-c9ec-4d94-ad37-4c9210455c97)
 
 
 # Insights
