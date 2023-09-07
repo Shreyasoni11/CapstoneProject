@@ -10,7 +10,6 @@ This project involves analyzing data related to medicine products, including the
 | ------------- | ------------- |
 | **Excel file** | This file provides the cleaned data after data cleaning.  |
 | **Python File** | This contains the .ipynb file related to the web scrapping part.  |
-| **Other Excel file** | This will provide the raw files after web scraping |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
 ##   Analysis
